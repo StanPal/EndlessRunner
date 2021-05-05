@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScreen.unity
+    guid: dcf1584ffcc1afb4190991ad5410b6c3
+  - enabled: 1
+    path: Assets/Scenes/Register Menu.unity
+    guid: 6ca63e631fa1d0540a68e32104804422
+  - enabled: 1
+    path: Assets/Scenes/MySQLLogin Screen.unity
+    guid: 4fbbb914b7d20aa4a8124c65adf04a5d
+  - enabled: 1
+    path: Assets/Scenes/MongoLogin.unity
+    guid: f7f3d670dff2c494489a0e2150d7f7d3
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 678d462d33ebdd7419400a9476bf6759
+  m_configObjects: {}
